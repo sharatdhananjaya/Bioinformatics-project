@@ -9,3 +9,6 @@ The family of lyases cleave carbon-nitrogen bonds.
 Cysteine Desulfurase is an enzyme that catalyzes the chemical reaction where the two substrates are L-cysteine a$
 [enzyme]-cysteine and the two products are L-alanine and [enzyme]-S-sulfanylcysteine. It belongs to the sulfurtr$
 transports sulfur-containing groups.
+
+This protein belongs:
+    to the family of lyases
